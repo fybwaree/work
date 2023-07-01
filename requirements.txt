@@ -1,0 +1,13 @@
+git+https://github.com/discordjs/discord.js
+jishaku
+asyncpg
+cashews
+psutil
+pomice
+pydantic
+humanize
+pillow
+dateparser
+python-dateutil
+beautifulsoup4
+asyncspotify
